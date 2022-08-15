@@ -2,9 +2,10 @@
 
 
 
-暇つぶしに、作った愛犬のHPです。
+暇つぶしに、
+作った知り合いの愛犬のHPです。
 
 
-テンプレート使わせてもらってます。
+テンプレート使ってます。
 
 https://funny-life.github.io/beloved-dog-Jacky/
