@@ -8,4 +8,4 @@
 
 テンプレート使ってます。
 
-https://funny-life.github.io/beloved-dog-Jacky/
+https://funny-life.github.io/beloved-dog-Jacky-HP/
